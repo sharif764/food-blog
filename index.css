@@ -1,14 +1,36 @@
 .sec-container {
   display: flex;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  color: rgb(73, 70, 70);
 }
 .div-style {
   width: 50%;
 }
+.span-style {
+  color: #fc8f49;
+}
 .eating-women {
   height: 75%;
-  padding-top: 100px;
+  padding-top: 15%;
 }
 .div-style2 {
-  padding-top: 110px;
-  padding-left: 20px;
+  padding-top: 15%;
+  padding-left: 35%;
+}
+.h1-style {
+  font-size: 50px;
+}
+pre {
+  font-size: 20px;
+}
+span {
+  font-size: 15px;
+}
+.food-contact-button {
+  text-decoration: none;
+  background-image: linear-gradient(to right, #fe4e30, #fc8f49);
+  padding: 18px 37px;
+  color: #fff;
+  border-radius: 26px;
+  font-weight: 600;
 }
