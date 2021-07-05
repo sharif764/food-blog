@@ -6,7 +6,7 @@
 .div-style {
   width: 50%;
 }
-.span-style {
+.span-color {
   color: #fc8f49;
 }
 .eating-women {
@@ -22,9 +22,6 @@
 }
 pre {
   font-size: 20px;
-}
-span {
-  font-size: 15px;
 }
 .food-contact-button {
   text-decoration: none;
