@@ -9,9 +9,9 @@
 .span-color {
   color: #fc8f49;
 }
-.eating-women {
+.img-style {
   height: 75%;
-  padding-top: 15%;
+  padding-top: 13%;
 }
 .div-style2 {
   padding-top: 15%;
@@ -28,6 +28,13 @@ pre {
   background-image: linear-gradient(to right, #fe4e30, #fc8f49);
   padding: 18px 37px;
   color: #fff;
-  border-radius: 26px;
+  border-radius: 30px;
   font-weight: 600;
+}
+.sec-img {
+  background-image: url(images/shapes/joss.jpg);
+}
+.img-style2 {
+  padding-left: 21%;
+  padding-top: 15%;
 }
