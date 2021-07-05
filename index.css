@@ -36,6 +36,7 @@
 }
 .sec-img {
   background-image: url(images/shapes/joss.jpg);
+  margin-bottom: 20px;
 }
 .img-style2 {
   padding-left: 21%;
@@ -47,9 +48,9 @@
 .divi-width-style {
   width: 20%;
   border: 1px solid #fff;
-  box-shadow: 7px 1px 100px 15px gray;
-  padding: 20px 6px 20px 20px;
-  border-radius: 28px;
+  box-shadow: 1px 1px 70px 1px gray;
+  padding: 20px 6px 15px 20px;
+  border-radius: 30px;
 }
 .food-img {
   height: 55%;
