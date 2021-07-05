@@ -59,6 +59,18 @@
 }
 .padding1 {
   margin: 0 10% 0 10%;
+  padding
+}
+.sec-newstyle h1 {
+  font-weight: bolder;
+  font-size: 45px;
 }
 .sec-newstyle {
+  margin: 0 10% 0 10%;
+  box-shadow: 1px 5px 5px 1px gray;
+  border-radius: 15px;
+}
+.last-div {
+  padding-left: 19%;
+  padding-right: 19%;
 }
