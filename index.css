@@ -1,7 +1,7 @@
 body {
   margin: 0;
 }
-.topimg {
+#topimg {
   width: 100%;
   border-radius: 15px;
   margin-bottom: 40px;
