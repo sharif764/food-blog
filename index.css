@@ -48,6 +48,9 @@ body {
   text-align: center;
   padding: 47px 600px 40px 600px;
 }
+.margin {
+  margin-bottom: 150px;
+}
 .divi-width-style {
   width: 20%;
   border: 1px solid #fff;
@@ -55,16 +58,13 @@ body {
   padding: 20px 6px 15px 20px;
   border-radius: 30px;
 }
+.margin2 {
+  margin: 0 10% 0 10%;
+}
 .food-img {
   height: 55%;
   width: 95%;
   border-radius: 20px;
-}
-.padding1 {
-  margin: 0 10% 0 10%;
-}
-.sec-newstyle h1 {
-  font-size: 45px;
 }
 .sec-newstyle {
   margin: 0 10% 0 10%;
@@ -72,12 +72,12 @@ body {
   border-radius: 20px;
   padding: 20px 0 20px 0;
 }
+.sec-newstyle h1 {
+  font-size: 45px;
+}
 .last-div {
   padding-left: 17%;
   padding-right: 17%;
-}
-.margin {
-  margin-bottom: 150px;
 }
 footer {
   background-color: #ffedf9;
